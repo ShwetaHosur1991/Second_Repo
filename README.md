@@ -1,4 +1,4 @@
-#Hello check
+#check
 # kubernetes-configmap-reload
 
 Pre-requisites:
